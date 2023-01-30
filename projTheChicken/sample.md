@@ -24,6 +24,8 @@ The small skinny woman took care of everything, sweeping every corner as the win
 The old woman cleaned again, talking to herself sometimes.  
 
 
+## Granny's Idea
+
 After a while, she took the courage to bother a neighbor. She put her head out of the window and called the woman with a gentle voice. 
 “Katie, I need to borrow a chicken for a few minutes. Would you have one?” asked Grandma, trying to solve the situation. However, to her surprise, 
 it wouldn’t be simple as she imagined. 
@@ -46,6 +48,7 @@ The hope in the boy’s eyes was vanishing. The family would go back to the city
 Maybe the chicken would still come. Gary tried to convince himself. 
 
 
+##  Uncle George's Idea
 Suddenly George flashed out of the house, running through the streets to borrow a chicken from Katie’s sister. 
 Grandma breathed relieved. 
 “A small chicken to walk around and pat it,” she said to herself. 
@@ -72,6 +75,8 @@ Grandma’s face was brave. Her voice was brave.
 
 Gary had never seen Granny speaking that way. 
 Nobody has told him about Uncle Denis or why the old woman was mad at him. 
+
+##  The House 
 
 It had to do with the house. It all started with that house. The past Granny would like to forget was coming back to revisit her. The boy was sure it was his fault.  
 That small blue house she lived in was one of Denis’ gifts when his brother abandoned Grandma to raise twelve children on her own. Uncle Denis gave 
