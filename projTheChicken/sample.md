@@ -17,9 +17,11 @@ His mother had told him a million times not to worry Granny. She was 95 years ol
 
 
 “Granny, don’t worry, I thought you had a chicken here. Tell me stories of the times you had chickens in your backyard,” said the boy observing the tidy place. 
-Everything was so clean and organized. 
+Everything was so clean and organized.
+
+
 “If your mother had told me that you wanted a chicken, I would get one for you,” said Grandma. 
-The good aroma of coconut oil and fish all around the tiny blue house in the middle of the guava trees seemed to be part of the past.
+The good aroma of coconut oil and fish all around the tiny blue house in the middle of the guava trees seemed part of the past.
 The small skinny woman took care of everything, sweeping every corner as the wind through the windows brought the dust back again. 
 The old woman cleaned again, talking to herself sometimes.  
 
