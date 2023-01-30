@@ -1,7 +1,8 @@
 ##  The House 
 
 > It had to do with the house. It all started with that house. The past Granny would like to forget was coming back to revisit her. The boy was sure it was his fault.  
-> That small blue house she lived in was one of Denis’ gifts when his brother abandoned Grandma to raise twelve children on her own. Uncle Denis gave 
+
+ That small blue house she lived in was one of Denis’ gifts when his brother abandoned Grandma to raise twelve children on her own. Uncle Denis gave 
 her the house when she was facing a difficult situation.
 With the new house, Grandma and his children were able to leave the island, get jobs and survive.   
 
