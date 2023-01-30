@@ -1,6 +1,6 @@
 ##  Uncle George's Idea
-Suddenly George flashed out of the house, running through the streets to borrow a chicken from Katie’s sister. 
-Grandma breathed relieved. 
+> Suddenly George flashed out of the house, running through the streets to borrow a chicken from Katie’s sister. 
+> Grandma breathed relieved. 
 “A small chicken to walk around and pat it,” she said to herself. 
 “That is all my son wants. It is so simple.  Maybe Gary has seen something like that in a book.”
 
