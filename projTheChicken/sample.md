@@ -23,6 +23,10 @@ The good aroma of coconut oil and fish all around the tiny blue house in the mid
 The small skinny woman took care of everything, sweeping every corner as the wind through the windows brought the dust back again. 
 The old woman cleaned again, talking to herself sometimes.  
 
+<p align="center">
+  :dart: <a href="https://github.com/marybishopgit/CreativeWriting/blob/main/projTheChicken/sample.md"> Sample Page ...</a>   
+</p>
+
 
 ## Granny's Idea
 
