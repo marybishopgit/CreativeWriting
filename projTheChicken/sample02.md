@@ -21,3 +21,7 @@ Time was going by. It was almost time to go back home. Gary’s mother was alrea
 The hope in the boy’s eyes was vanishing. The family would go back to the city in a couple of hours.
 Maybe the chicken would still come. Gary tried to convince himself. 
 
+<p align="center">
+  :dart: <a href="https://github.com/marybishopgit/CreativeWriting/blob/main/projTheChicken/sample.md"> Sample Page ...</a>   
+</p>
+
