@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  :paperclip: <a href="https://github.com/marybishopgit/CreativeWriting/blob/main/projTheChicken/sample.md"> Sample Page ...</a>   :paperclip:
+  :paperclip: <a href="https://github.com/marybishopgit/CreativeWriting/blob/main/projTheChicken/sample.md" style="color: green"> Sample Page ...</a>   :paperclip:
 </p>
 
 
