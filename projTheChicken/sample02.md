@@ -1,7 +1,7 @@
 ## Granny's Idea
 
-After a while, she took the courage to bother a neighbor. She put her head out of the window and called the woman with a gentle voice. 
-“Katie, I need to borrow a chicken for a few minutes. Would you have one?” asked Grandma, trying to solve the situation. However, to her surprise, 
+> After a while, she took the courage to bother a neighbor. She put her head out of the window and called the woman with a gentle voice. 
+> “Katie, I need to borrow a chicken for a few minutes. Would you have one?” asked Grandma, trying to solve the situation. However, to her surprise, 
 it wouldn’t be simple as she imagined. 
 
 
