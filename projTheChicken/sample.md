@@ -24,7 +24,7 @@ The small skinny woman took care of everything, sweeping every corner as the win
 The old woman cleaned again, talking to herself sometimes.  
 
 <p align="center">
-  :dart: <a href="https://https://github.com/marybishopgit/CreativeWriting/blob/main/projTheChicken/sample02.md"> Read more ...</a>   
+  :dart: <a href="https://"https://github.com/marybishopgit/CreativeWriting/blob/main/projTheChicken/sample02.md"> Read more ...</a>   
 </p>
 
 
